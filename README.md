@@ -1,3 +1,3 @@
 this is my second protfolio website
 
-link:  https://shakilsarkar12.github.io/portfolio/
+link: https://shakilsarkar12.github.io/portfolio/
